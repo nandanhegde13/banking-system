@@ -1,0 +1,27 @@
+body{
+    background:lightgray;
+  }
+tr{
+    border:1px solid white;
+}
+
+td{
+    border:1px solid white;
+}
+
+
+th{
+    border:1px solid white;
+    color:aqua;
+}
+h2{
+    text-align:center;
+    color:blue;
+    text-decoration:underline;
+}
+
+.styling{
+    text-align:center;
+
+}
+

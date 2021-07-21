@@ -1,0 +1,61 @@
+body{
+    background:lightgray;
+  }
+tr{
+    border:1px solid white;
+}
+
+td{
+    border:1px solid white;
+}
+
+
+th{
+    border:1px solid white;
+    color:aqua;
+}
+h2{
+    text-align:center;
+    color:blue;
+    text-decoration:underline;
+}
+
+.styling{
+    text-align:center;
+
+}
+
+form{
+    background:darkgray;
+    text-align:center;
+
+}
+
+button{
+    margin-bottom:10px;
+
+}
+
+.transfer{
+    margin-top:10px;
+}
+
+.cancel{
+    margin-top:10px;
+    background-color:red;
+}
+
+.amount{
+    margin-left:25px;
+}
+
+.inbox{
+    margin-left:10px;
+    padding-right:50px;
+
+    width:245px;
+}
+
+.option{
+    padding:2px 4px 4px 2px; 
+}
